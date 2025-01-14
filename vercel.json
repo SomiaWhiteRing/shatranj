@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/.well-known/webfinger",
+      "destination": "https://social.shatranj.space/.well-known/webfinger",
+      "permanent": true
+    },
+    {
+      "source": "/.well-known/host-meta",
+      "destination": "https://social.shatranj.space/.well-known/host-meta",
+      "permanent": true
+    },
+    {
+      "source": "/.well-known/nodeinfo",
+      "destination": "https://social.shatranj.space/.well-known/nodeinfo",
+      "permanent": true
+    }
+  ]
+}
